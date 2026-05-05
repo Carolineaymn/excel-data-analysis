@@ -1,15 +1,15 @@
-# 📊 FoodMart Sales Analysis (Excel Project)
+#  FoodMart Sales Analysis (Excel Project)
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project analyzes the sales performance of FoodMart using the FoodMart dataset.  
 The analysis was performed using Microsoft Excel with Pivot Tables and dashboards to explore sales trends, customer behavior, product performance, and regional insights.
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 - Microsoft Excel  
 - Pivot Tables  
@@ -18,18 +18,18 @@ The analysis was performed using Microsoft Excel with Pivot Tables and dashboard
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 ---
 
-## 📈 Sales Growth Over Time
+##  Sales Growth Over Time
 
 - Sales, quantity sold, and number of orders increased from 1997 to 1998  
 - Indicates consistent business growth and improved performance  
 
 ---
 
-## 🌍 Sales Performance by Country
+##  Sales Performance by Country
 
 | Country | Sales |
 |--------|--------|
@@ -50,7 +50,7 @@ The analysis was performed using Microsoft Excel with Pivot Tables and dashboard
 
 ---
 
-## 📍 Regional Performance
+##  Regional Performance
 
 | Region | Sales |
 |--------|--------|
@@ -61,7 +61,7 @@ The analysis was performed using Microsoft Excel with Pivot Tables and dashboard
 
 ---
 
-## 🏬 Top Performing Stores
+##  Top Performing Stores
 
 - Store 13  
 - Store 17  
@@ -73,21 +73,21 @@ The analysis was performed using Microsoft Excel with Pivot Tables and dashboard
 
 ---
 
-## 👥 Customer Behavior
+##  Customer Behavior
 
 - Small group of customers contributes a large portion of total sales  
 - High-value customers are key for revenue stability  
 
 ---
 
-## 💰 Customer Income Impact
+##  Customer Income Impact
 
 - Customers earning $30K–$50K generate the highest sales  
 - Middle-income segment is the most valuable group  
 
 ---
 
-## 🛒 Top Products
+##  Top Products
 
 - Hermanos Green Pepper  
 - Hilltop Mint Mouthwash  
@@ -99,7 +99,7 @@ The analysis was performed using Microsoft Excel with Pivot Tables and dashboard
 
 ---
 
-## 🏷 Top Brands
+##  Top Brands
 
 - Hermanos  
 - Tell Tale  
@@ -111,7 +111,7 @@ The analysis was performed using Microsoft Excel with Pivot Tables and dashboard
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 - Strengthen presence in the USA market  
 - Improve sales in Canada through promotions  
@@ -124,13 +124,13 @@ The analysis was performed using Microsoft Excel with Pivot Tables and dashboard
 
 ---
 
-## 📁 Project Files
+##  Project Files
 
 - Excel dashboard and analysis file included in repository  
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 Caroline Ayman  
 FCAI Student | Data Analysis (Excel)
